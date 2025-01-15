@@ -6,5 +6,4 @@ packages:
   home-assistant-voice: github://esphome/home-assistant-voice-pe/home-assistant-voice.factory.yaml@25.1.0
 
 dashboard_import:
-  package_import_url: github://esphome/home-assistant-voice-pe/home-assistant-voice.factory.yaml
   import_full_config: true

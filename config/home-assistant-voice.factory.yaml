@@ -19,7 +19,7 @@ esphome:
     version: dev
 
 dashboard_import:
-  package_import_url: github://esphome/home-assistant-voice-pe/home-assistant-voice.yaml
+  package_import_url: github://AlexGustafsson/esphome/config/home-assistant-voice.yaml
 
 wifi:
   on_connect:
