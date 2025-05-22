@@ -2,10 +2,10 @@
   "type": "micro",
   "wake_word": "cicero",
   "author": "Alex Gustafsson",
-  "website": "https://github.com/AlexGustafsson",
-  "model": "https://raw.githubusercontent.com/AlexGustafsson/esphome/refs/heads/main/models/microwakeword/cicero.tflite",
+  "website": "https://github.com/alexgustafsson",
+  "model": "https://raw.githubusercontent.com/alexgustafsson/esphome/refs/heads/main/models/microwakeword/cicero.tflite",
   "version": 2,
-  "trained_languages": ["en", "sv"],
+  "trained_languages": ["en"],
   "micro": {
     "probability_cutoff": 0.63,
     "sliding_window_size": 5,
