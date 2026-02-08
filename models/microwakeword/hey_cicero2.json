@@ -3,7 +3,7 @@
 	"wake_word": "Hey Cicero",
 	"author": "Tater Totterson",
 	"website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-	"model": "hey_cicero2.tflite",
+	"model": "https://raw.githubusercontent.com/alexgustafsson/esphome/refs/heads/main/models/microwakeword/hey_cicero2.tflite",
 	"trained_languages": ["en"],
 	"version": 2,
 	"micro": {
