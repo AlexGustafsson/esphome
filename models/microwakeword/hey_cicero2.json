@@ -1,6 +1,6 @@
 {
 	"type": "micro",
-	"wake_word": "Hey Cicero",
+	"wake_word": "Hey Cicero2",
 	"author": "Tater Totterson",
 	"website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
 	"model": "https://raw.githubusercontent.com/alexgustafsson/esphome/refs/heads/main/models/microwakeword/hey_cicero2.tflite",
